@@ -1,6 +1,4 @@
-# Anuman
-
-**A soft sensor for the S-Zorb gasoline desulfurization unit.**
+# ANUMAN - **A soft sensor for the S-Zorb gasoline desulfurization unit.**
 
 Predicts product octane number (RON) in real time from all inputs available at the unit — feed quality and process conditions — closing the two-day gap between lab measurements.
 
